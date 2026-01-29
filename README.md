@@ -11,7 +11,7 @@ Writer and technologist exploring the intersection of technology, AI, management
 
 ### Featured projects
 
-- 🌐 [obsidian-web](https://github.com/blamouche/obsidian-web) — Browser interface for local Obsidian vaults
+- 🌐 [Browsidian](https://github.com/blamouche/browsidian) — Browser interface for local Obsidian vaults
 - ⏱️ [notimetowaste](https://github.com/blamouche/notimetowaste) — The Efficient Meeting Pattern to reduce meeting time by 4x
 - 🚴 [bikepacking-gpx-manager](https://github.com/blamouche/bikepacking-gpx-manager) — GPX route management for bikepacking trips
 - 🗺️ [myepicmap](https://github.com/blamouche/myepicmap) — Personal mapping project
