@@ -26,8 +26,6 @@ Writer and technologist exploring the intersection of technology, AI, management
 
 ### Latest posts
 
-_Updated daily from https://lamouche.fr/index.xml._
-
 <!-- LAMOUCHE:POSTS_START -->
 - [From vibe coding to prompt coding: my analysis of a lightning-fast transition](https://lamouche.fr/notebook/posts/from-vibe-coding-to-prompt-coding-my-analysis-of-a-lightning-fast-transition/) — 2026-01-27
 - [A newsletter to understand modern cartography](https://lamouche.fr/notebook/posts/cartography-for-noobs/) — 2026-01-12
