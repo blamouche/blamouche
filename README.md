@@ -9,13 +9,6 @@
 
 Writer and technologist exploring the intersection of technology, AI, management, and innovation.
 
-### What I write about
-
-- Technology trends and the future of work
-- Productivity systems and efficient collaboration
-- Modern cartography — from projections and data to web mapping and geopolitics
-- Adventure, exploration, and outdoor sports
-
 ### Featured projects
 
 - 🌐 [obsidian-web](https://github.com/blamouche/obsidian-web) — Browser interface for local Obsidian vaults
