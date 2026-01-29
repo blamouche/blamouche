@@ -1,4 +1,11 @@
-## Benoit Lamouche
+## Hey there 👋
+
+[![Website](https://img.shields.io/badge/Website-lamouche.fr-blue?style=flat-square)](https://lamouche.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-benoitlamouche-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/benoitlamouche)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@blamouche-6364FF?style=flat-square&logo=mastodon)](https://mastodon.social/@blamouche)
+[![Bluesky](https://img.shields.io/badge/Bluesky-blamouche-00A3E0?style=flat-square)](https://bsky.app/profile/blamouche.bsky.social)
+[![Strava](https://img.shields.io/badge/Strava-blamouche-FC4C02?style=flat-square&logo=strava)](https://strava.com/athletes/4347458)
+
 
 Writer and technologist exploring the intersection of technology, AI, management, and innovation.
 
@@ -16,14 +23,6 @@ Writer and technologist exploring the intersection of technology, AI, management
 - 🚴 [bikepacking-gpx-manager](https://github.com/blamouche/bikepacking-gpx-manager) — GPX route management for bikepacking trips
 - 🗺️ [myepicmap](https://github.com/blamouche/myepicmap) — Personal mapping project
 - 🎿 [biathlon](https://github.com/blamouche/biathlon) — Live biathlon results application
-
-### Find me elsewhere
-
-[![Website](https://img.shields.io/badge/Website-lamouche.fr-blue?style=flat-square)](https://lamouche.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-benoitlamouche-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/benoitlamouche)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@blamouche-6364FF?style=flat-square&logo=mastodon)](https://mastodon.social/@blamouche)
-[![Bluesky](https://img.shields.io/badge/Bluesky-blamouche-00A3E0?style=flat-square)](https://bsky.app/profile/blamouche.bsky.social)
-[![Strava](https://img.shields.io/badge/Strava-blamouche-FC4C02?style=flat-square&logo=strava)](https://strava.com/athletes/4347458)
 
 ### Latest posts
 
