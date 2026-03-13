@@ -12,6 +12,8 @@ Writer and technologist exploring the intersection of technology, AI, management
 ### Featured projects
 
 - 🌐 [Browsidian](https://github.com/blamouche/browsidian) — Browser interface for local Obsidian vaults
+- 🧩 [prompt-hub](https://github.com/blamouche/prompt-hub) — Prompt management and agent workflow framework
+- 🧠 [obsidian-any-ai-code](https://github.com/blamouche/obsidian-any-ai-code) — Use any AI coding assistant with Obsidian
 - ✅ [obsidian-quick-note-task](https://github.com/blamouche/obsidian-quick-note-task) — Quick note and task capture for Obsidian
 - ⏱️ [notimetowaste](https://github.com/blamouche/notimetowaste) — The Efficient Meeting Pattern to reduce meeting time by 4x
 - 🚴 [bikepacking-gpx-manager](https://github.com/blamouche/bikepacking-gpx-manager) — GPX route management for bikepacking trips
