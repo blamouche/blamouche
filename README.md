@@ -23,9 +23,9 @@ Writer and technologist exploring the intersection of technology, AI, management
 ### Latest posts
 
 <!-- LAMOUCHE:POSTS_START -->
+- [Obsidian Quick Note Task: my tiny macOS app to never lose an idea again](https://lamouche.fr/notebook/posts/20260315-obsidian-quick-note-task/) — 2026-03-15
 - [The real code is the prompt](https://lamouche.fr/notebook/posts/the-real-code-is-the-prompt/) — 2026-03-13
 - [Browsidian: my web editor for Obsidian](https://lamouche.fr/notebook/posts/browsidian-my-web-editor-for-obsidian/) — 2026-01-30
 - [From vibe coding to prompt coding: my analysis of a lightning-fast transition](https://lamouche.fr/notebook/posts/from-vibe-coding-to-prompt-coding-my-analysis-of-a-lightning-fast-transition/) — 2026-01-27
 - [A newsletter to understand modern cartography](https://lamouche.fr/notebook/posts/cartography-for-noobs/) — 2026-01-12
-- [CES 2026: A deep dive into technology innovations](https://lamouche.fr/notebook/posts/ces-2026/) — 2026-01-10
 <!-- LAMOUCHE:POSTS_END -->
