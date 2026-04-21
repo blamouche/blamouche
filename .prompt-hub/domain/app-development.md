@@ -10,7 +10,7 @@ Use this prompt for software application development tasks across web, mobile, b
 
 ## Task Management
 
-- Write plan to `.prompt-hub/todo/todo-<slug>.md` before starting any non-trivial task.
+- Write plan to `.prompt-hub/todo/todo-<timestamp>-<slug>.md` (timestamp: `YYYYMMDD-HHmmss`, e.g. `todo-20260313-143000-add-auth.md`) before starting any non-trivial task.
 - Add a review section to the task's todo file when done.
 - Update `.prompt-hub/lessons.md` after corrections.
 
