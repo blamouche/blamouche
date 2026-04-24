@@ -1,5 +1,9 @@
 # Releases
 
+## 0.0.3
+- Add `cardputer-presentation-remote` (`🎛️`) to `README.md` featured projects.
+- Record task plan and review.
+
 ## 0.0.2
 - Add `obsidian-geocode-note` (`📍`) to `README.md` featured projects.
 - Update Prompt Hub from 0.4.2 to 0.5.3 via silent auto-update.

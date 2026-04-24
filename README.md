@@ -20,6 +20,7 @@ Writer and technologist exploring the intersection of technology, AI, management
 - 🚴 [bikepacking-gpx-manager](https://github.com/blamouche/bikepacking-gpx-manager) — GPX route management for bikepacking trips
 - 🗺️ [myepicmap](https://github.com/blamouche/myepicmap) — Personal mapping project
 - 🎿 [biathlon](https://github.com/blamouche/biathlon) — Live biathlon results application
+- 🎛️ [cardputer-presentation-remote](https://github.com/blamouche/cardputer-presentation-remote) — BLE HID slide remote for the M5Stack Cardputer
 
 ### Latest posts
 
