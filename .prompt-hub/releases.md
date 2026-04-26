@@ -1,5 +1,9 @@
 # Releases
 
+## 0.0.4
+- Add `cardputer-level` (`🫧`) to `README.md` featured projects.
+- Record task plan and review.
+
 ## 0.0.3
 - Add `cardputer-presentation-remote` (`🎛️`) to `README.md` featured projects.
 - Record task plan and review.

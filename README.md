@@ -21,6 +21,7 @@ Writer and technologist exploring the intersection of technology, AI, management
 - 🗺️ [myepicmap](https://github.com/blamouche/myepicmap) — Personal mapping project
 - 🎿 [biathlon](https://github.com/blamouche/biathlon) — Live biathlon results application
 - 🎛️ [cardputer-presentation-remote](https://github.com/blamouche/cardputer-presentation-remote) — BLE HID slide remote for the M5Stack Cardputer
+- 🫧 [cardputer-level](https://github.com/blamouche/cardputer-level) — Bubble level for the M5Stack Cardputer ADV using the on-board IMU
 
 ### Latest posts
 
