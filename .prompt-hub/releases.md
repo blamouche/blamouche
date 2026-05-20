@@ -1,5 +1,9 @@
 # Releases
 
+## 0.0.6
+- Add `cardputer-dwight` (`📎`) to `README.md` featured projects.
+- Record task plan and review.
+
 ## 0.0.5
 - Add `cardputer-geometriedash` (`🎮`) to `README.md` featured projects.
 - Record task plan and review.

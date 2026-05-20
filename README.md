@@ -23,6 +23,7 @@ Writer and technologist exploring the intersection of technology, AI, management
 - 🎛️ [cardputer-presentation-remote](https://github.com/blamouche/cardputer-presentation-remote) — BLE HID slide remote for the M5Stack Cardputer
 - 🫧 [cardputer-level](https://github.com/blamouche/cardputer-level) — Bubble level for the M5Stack Cardputer ADV using the on-board IMU
 - 🎮 [cardputer-geometriedash](https://github.com/blamouche/cardputer-geometriedash) — Geometry Dash auto-runner for the M5Stack Cardputer
+- 📎 [cardputer-dwight](https://github.com/blamouche/cardputer-dwight) — Office-themed multi-app firmware for the M5Stack Cardputer (BLE HID, captive portal, focus timer)
 
 ### Latest posts
 
