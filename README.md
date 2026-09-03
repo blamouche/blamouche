@@ -28,9 +28,9 @@ Writer and technologist exploring the intersection of technology, AI, management
 ### Latest posts
 
 <!-- LAMOUCHE:POSTS_START -->
+- [State of the Map 2026: nothing quite like the OpenStreetMap community](https://lamouche.fr/notebook/posts/state-of-the-map-2026/) — 2026-08-31
 - [VivaTech 2026: Robots take the floor, sovereignty takes the stage](https://lamouche.fr/notebook/posts/vivatech-2026/) — 2026-06-25
 - [Ten days in South Korea, between Seoul and Busan](https://lamouche.fr/adventure-exploration/posts/south-korea-seoul-busan/) — 2026-05-08
 - [AI gives me back the excitement of my early days as a developer](https://lamouche.fr/notebook/posts/20260324-ai-gives-me-back-the-excitement-of-my-early-days-as-a-developer/) — 2026-03-24
 - [Obsidian Quick Note Task: my tiny macOS app to never lose an idea again](https://lamouche.fr/notebook/posts/20260315-obsidian-quick-note-task/) — 2026-03-15
-- [The real code is the prompt](https://lamouche.fr/notebook/posts/the-real-code-is-the-prompt/) — 2026-03-13
 <!-- LAMOUCHE:POSTS_END -->
